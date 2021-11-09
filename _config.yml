@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.MyName.com
-title: My Name
-email: email@gmail.com
-author: MYNAME
+url: http://www.estr2525.github.io
+title: Samantha Estrada PhD
+email: estr2525@gmail.com
+author: Samantha Estrada
 description: "MyName's Personal Page"
 
 # ----------------------- #
@@ -38,5 +38,5 @@ social:
 #    url: img/MyCV.pdf
   - icon: twitter
     title: twitter
-    url: https://twitter.com/MyName
+    url: https://twitter.com/estr2525
 
